@@ -1,0 +1,12 @@
+{
+  "export_job_id": "1485c0ce-558b-497f-b89d-17e711040f25",
+  "id_short": 474842,
+  "published_at": "2026-04-12T19:18:35Z",
+  "repo_name": "white-space-finder-in-philadelphia-camden-wilmington-metro-pa-nj-de-md-us-sample-474842",
+  "sample_asset_name": "beamstation_474842_food_and_drink-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/474842/beamstation_474842_food_and_drink-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
+  "sample_records": 19,
+  "sample_sha256": "39e5d103e378fe6dcfc298a49916084f428ba7adfd98afd8804fc611e9dbd02a",
+  "sample_size_bytes": 86302,
+  "total_records": 193
+}
