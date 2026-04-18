@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Philadelphia-Camden-Wilmington, PA-NJ-DE-MD that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Philadelphia-Camden-Wilmington (Metro), PA-NJ-DE-MD, US",
-  "export_job_id": "1485c0ce-558b-497f-b89d-17e711040f25",
+  "export_job_id": "85878d2e-7595-48f9-b404-54e57373627c",
   "github_org": "Beamstation-Datasets",
   "id_short": 474842,
   "location_name": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/474842/beamstation_474842_food_and_drink-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
   "sample_pct": 9.84,
   "sample_records": 19,
-  "sample_sha256": "39e5d103e378fe6dcfc298a49916084f428ba7adfd98afd8804fc611e9dbd02a",
-  "sample_size_bytes": 86302,
+  "sample_sha256": "834ccc218ee25b8d26973883559ef883c27248866c0f17e48b66caef3452ccda",
+  "sample_size_bytes": 86028,
   "total_records": 193,
-  "updated_at": "2026-04-08T01:25:29.162834+00:00"
+  "updated_at": "2026-04-15T06:55:58.864396+00:00"
 }
