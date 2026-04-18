@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 193 records |
 | Free sample size | 19 records (9.84%) |
-| Last export | 2026-04-08T01:25:29.162834+00:00 |
+| Last export | 2026-04-15T06:55:58.864396+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-philadelphia-camden-wilmington-metro-pa-nj-de-md-us-sample-474842/releases/download/sample-latest/beamstation_474842_food_and_drink-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
