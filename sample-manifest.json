@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1485c0ce-558b-497f-b89d-17e711040f25",
+  "export_job_id": "85878d2e-7595-48f9-b404-54e57373627c",
   "id_short": 474842,
-  "published_at": "2026-04-12T19:18:35Z",
+  "published_at": "2026-04-18T19:11:03Z",
   "repo_name": "white-space-finder-in-philadelphia-camden-wilmington-metro-pa-nj-de-md-us-sample-474842",
   "sample_asset_name": "beamstation_474842_food_and_drink-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/474842/beamstation_474842_food_and_drink-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv",
   "sample_records": 19,
-  "sample_sha256": "39e5d103e378fe6dcfc298a49916084f428ba7adfd98afd8804fc611e9dbd02a",
-  "sample_size_bytes": 86302,
+  "sample_sha256": "834ccc218ee25b8d26973883559ef883c27248866c0f17e48b66caef3452ccda",
+  "sample_size_bytes": 86028,
   "total_records": 193
 }
