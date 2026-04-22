@@ -1,6 +1,6 @@
 # White Space Finder in Philadelphia-Camden-Wilmington (Metro), PA-NJ-DE-MD, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `474842` |
 | Location | Philadelphia-Camden-Wilmington, PA-NJ-DE-MD |
 | Category | Restaurants |
-| Full dataset size | 193 records |
-| Free sample size | 19 records (9.84%) |
-| Last export | 2026-04-15T06:55:58.864396+00:00 |
+| Full dataset size | 176 records |
+| Free sample size | 17 records (9.66%) |
+| Last export | 2026-04-22T13:05:09.476828+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-philadelphia-camden-wilmington-metro-pa-nj-de-md-us-sample-474842/releases/download/sample-latest/beamstation_474842_food_and_drink-us-philadelphiacamdenwilmingtonpanjdemd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
